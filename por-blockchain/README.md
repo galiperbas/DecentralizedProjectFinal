@@ -8,5 +8,5 @@ Terminali açın ve şu komutları çalıştırın:
 
 ```bash
 pip install -r requirements.txt
-python examples/simple_run.py
+python -m examples.simple_run
 ```
